@@ -1,4 +1,4 @@
-## Arthur Quirino!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2YTF1ZWVwdGJkNXVpNmVwdGR4aXliaGN6Z2h2bnRpajN1bm9udyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif" width="50">
+## Arthur Quirino!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2YTF1ZWVwdGJkNXVpNmVwdGR4aXliaGN6Z2h2bnRpajN1bm9udyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif" width="150">
 - 👾 <b>Cursando Bacharelado em Ciencia da Computação</b><br>
 
 <div align="center">
