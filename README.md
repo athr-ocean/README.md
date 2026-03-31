@@ -1,9 +1,8 @@
-## Arthur Quirino!<img src="https://giphy.com/gifs/bleach-ulquiorra-cifer-C9p5OvcSFWrte" width="50">
+## Arthur Quirino!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI2YTF1ZWVwdGJkNXVpNmVwdGR4aXliaGN6Z2h2bnRpajN1bm9udyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif" width="50">
 - 👾 <b>Cursando Bacharelado em Ciencia da Computação</b><br>
 
 <div align="center">
   <a href="https://github.com/dezinelias">
-    <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
