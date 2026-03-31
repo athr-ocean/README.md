@@ -1,4 +1,4 @@
-## Arthur Quirino!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Arthur Quirino!<img src="https://giphy.com/gifs/bleach-ulquiorra-cifer-C9p5OvcSFWrte" width="50">
 - 👾 <b>Cursando Bacharelado em Ciencia da Computação</b><br>
 
 <div align="center">
